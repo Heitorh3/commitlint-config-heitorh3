@@ -1,0 +1,21 @@
+{
+  "name": "commitlint-config-heitorh3",
+  "version": "0.0.1",
+  "description": "Shareable commitlint config used by Heitor Neto",
+  "main": "index.js",  
+  "author": "Heitor Carvalho de Almeida Neto",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Heitorh3/commitlint-config-heitorh3.git"
+  },
+  "keywords": [
+    "commitlint",
+    "config",
+    "rocketseat",
+    "git"
+  ]
+}
